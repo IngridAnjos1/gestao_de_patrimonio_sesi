@@ -1,59 +1,41 @@
-# GestaoDePatrimonioSesi
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.8.
+# Desafio Frontend
 
-## Development server
+## Funcionalidades Implementadas
 
-To start a local development server, run:
+-   [ ] Tela de listagem de patrimônios com filtros.
 
-```bash
-ng serve
-```
+## Tecnologias Utilizadas
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+-   [ ] Angular
 
-## Code scaffolding
+## Requisitos Técnicos
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+-   [ ] Consumo da API via Axios ou Fetch.
+-   [ ] Estruturação do código em componentes reutilizáveis.
+-   [ ] Uso do Git para versionamento.
+-   [ ] Implementação de testes básicos (Diferencial).
+-   [ ] Deploy da aplicação web (Opcional).
 
-```bash
-ng generate component component-name
-```
+## Como Executar o Projeto
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+1.  Clone este repositório: `git clone`
+2.  Navegue até o diretório do projeto: `cd [nome do projeto]`
+3.  Instale as dependências: `npm install`
+4.  Execute a aplicação: `npm start` 
+5.  Acesse a aplicação no seu navegador: `http://localhost:4.200`
 
-```bash
-ng generate --help
-```
+## Acesso à API
 
-## Building
+-   Documentação da API: [https://prova-tecnico.azurewebsites.net/api-docs/](https://prova-tecnico.azurewebsites.net/api-docs/)
+-   Usuários:
+    -   regional@gmail.com
+    -   nacional@gmail.com
+-   Senha: senha
 
-To build the project run:
+## Figma
 
-```bash
-ng build
-```
+-   Link do Figma: [https://www.figma.com/design/A6KtovfYqgkyDL1dJ5cVQA/Prova-Técnica?node-id=428-10981&t=3iuip4rtalAJ066z-0](https://www.figma.com/design/A6KtovfYqgkyDL1dJ5cVQA/Prova-Técnica?node-id=428-10981&t=3iuip4rtalAJ066z-0)
+-   ![image](https://github.com/user-attachments/assets/dea4dfac-5dd9-47d0-875c-1748bdfd6bc5)
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
 
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
