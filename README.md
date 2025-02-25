@@ -35,7 +35,7 @@
 
 ## Figma
 
--   Link do Figma: [https://www.figma.com/design/A6KtovfYqgkyDL1dJ5cVQA/Prova-Técnica?node-id=428-10981&t=3iuip4rtalAJ066z-0](https://www.figma.com/design/A6KtovfYqgkyDL1dJ5cVQA/Prova-Técnica?node-id=428-10981&t=3iuip4rtalAJ066z-0)
--   ![image](https://github.com/user-attachments/assets/dea4dfac-5dd9-47d0-875c-1748bdfd6bc5)
+  Link do Figma: [https://www.figma.com/design/A6KtovfYqgkyDL1dJ5cVQA/Prova-Técnica?node-id=428-10981&t=3iuip4rtalAJ066z-0](https://www.figma.com/design/A6KtovfYqgkyDL1dJ5cVQA/Prova-Técnica?node-id=428-10981&t=3iuip4rtalAJ066z-0)
+   ![image](https://github.com/user-attachments/assets/dea4dfac-5dd9-47d0-875c-1748bdfd6bc5)
 
 
